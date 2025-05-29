@@ -1,0 +1,25 @@
+body {
+
+    background: green;
+    color: black;
+    background-image: url(imagem/grama.jpg);
+
+}
+
+.logotipo {
+
+    height: 300px;
+
+}
+
+.pele {
+
+    height: 300px;
+    width: 500px;
+
+}
+
+.fotodopele {
+    height: 300px;
+    width: 500px;
+}
